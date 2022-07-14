@@ -69,3 +69,35 @@ header {
     display: block;
     margin: 10px;
 }
+
+#locations {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url('../img/img-locations-background.jpg');
+    height: 500px;
+    margin: 0;
+}
+
+#locations h3 {
+    margin: 0;
+}
+
+#locations-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+#locations-container h3 {
+    display: inline;
+    margin: 0;
+}
+
+.locations-item {
+    background-color: black;
+    margin-left: 40px;
+    width: 300px;
+    padding-top: 15px;
+    opacity: 1;
+}
