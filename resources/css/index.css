@@ -101,3 +101,12 @@ header {
     padding-top: 15px;
     opacity: 1;
 }
+
+#contacts {
+    height: 200px;
+}
+
+footer p {
+    text-align: left;
+    margin-left: 20px;
+}
